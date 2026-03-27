@@ -1,0 +1,11 @@
+﻿@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Pretendard", sans-serif;
+  --color-brand: #000000;
+}
+
+:root {
+  background: white;
+  color: black;
+}
